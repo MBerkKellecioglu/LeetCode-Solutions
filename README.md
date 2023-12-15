@@ -9,7 +9,7 @@
 * [Valid Anagram->Solution2](Arrays&Hashing/Easy/ValidAnagram/Solution2.cpp)
 
 ### Medium
-* [Group Anagrams](Arrays&Hashing/Medium/GroupAnagrams/Solution1.cpp)
+* [Group Anagrams](Arrays&Hashing/Medium/Group%20Anagrams/Solution1.cpp)
 * [Longest Consecutive Sequence](Arrays&Hashing/Medium/LongestConsecutiveSequence/Solution1.cpp)
 * [Product Of Array Itself](Arrays&Hashing/Medium/ProductOfArrayExceptİtself/Solution1.cpp)
 * [Top K Frequent Elements](Arrays&Hashing/Medium/TopKFrequentElements/Solution1.cpp)
