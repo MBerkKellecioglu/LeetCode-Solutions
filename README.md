@@ -16,6 +16,15 @@
 * [Valid Sudoku](Arrays&Hashing/Medium/Valid%20Sudoku/Solution1.cpp)
 
 
+## Binary Search
+### Easy
+* [Simple Binary Search](Binary%20Search/Easy/Simple%20Binary%20Search/Solution.cpp)
+
+### Medium
+*
+
+
+
 
 
 
