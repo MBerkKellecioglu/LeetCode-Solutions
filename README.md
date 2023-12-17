@@ -41,6 +41,52 @@
 
 ## Stack
 ### Easy
+* [Valid Parentheses](Stack/Easy/Valid%20Parentheses/Solution1.cpp)
+
+### Medium
+* [Car Fleet](Stack/Medium/Car%20Fleet/Solution1.cpp)
+* [Daily Temperatures](Stack/Medium/Daily%20Temperatures/Solution1.cpp)
+* [Evaluate Reverse Polish Notation](Stack/Medium/Evaluate%20Reverse%20Polish%20Notation/Solution1.cpp)
+* [Generate Parentheses](Stack/Medium/Generate%20Parentheses/Solution1.cpp)
+
+### Hard
+* [Decode String](Stack/Hard/Decode%20String/Solution1.cpp)
+* [Largest Rectangle in Histogram](Stack/Hard/Largest%20Rectangle%20İn%20Histogram/Solution1.cpp)
+* [Longest Valid Parentheses->Solution1](Stack/Hard/Longest%20Valid%20Parentheses/Solution1.cpp)
+* [Longest Valid Parentheses->Solution2](Stack/Hard/Longest%20Valid%20Parentheses/solution2.cpp)
+* [Maximal Rectangle](Stack/Hard/Maximal%20Rectangle/Solution1.cpp)
+* [Number of Atoms->Solution1](Stack/Hard/Number%20Of%20Atoms/Solution1.cpp)
+* [Number of Atoms->Solution2](Stack/Hard/Number%20Of%20Atoms/Solution2.cpp)
+* [Parsing a Boolean Expression->Solution1](Stack/Hard/Parsing%20a%20Boolean%20Expression/Solution1.cpp)
+* [Parsing a Boolean Expression->Solution2](Stack/Hard/Parsing%20a%20Boolean%20Expression/Solution2.cpp)
+
+
+## Two Pointers
+### Easy
+* [Valid Palindrome](Two%20Pointers/Easy/Valid%20Palindrome/Solution1.cpp)
+
+### Medium
+* [3 Sum](Two%20Pointers/Medium/3%20Sum/Solution1.cpp)
+* [Container With Most Water](Two%20Pointers/Medium/Container%20With%20Most%20Water/Solution1.cpp)
+* [Two Sum II](Two%20Pointers/Medium/Two%20Sum%20II/Solution1.cpp)
+
+### Hard
+* [Trapping Rain Water](Two%20Pointers/Hard/Trapping%20Rain%20Water/Solution1.cpp)
+
+
+## Tree
+### Easy
+* [Balanced Binary Tree](Tree/Easy/Balanced%20Binary%20Tree/Solution1.cpp)
+* [Diameter of Binary Tree->Solution1](Tree/Easy/Diameter%20of%20Binary%20Tree/Solution1.cpp)
+* [Diameter of Binary Tree->Solution2](Tree/Easy/Diameter%20of%20Binary%20Tree/Solution2.cpp)
+* [Invert Binary Tree](Tree/Easy/Invert%20Binary%20Tree/Solution1.cpp)
+* [Maximum Depth of Binary Tree](Tree/Easy/Maximum%20Depth%20of%20Binary%20Tree/Solution1.cpp)
+* [Same Tree](Tree/Easy/Same%20Tree/Solution1.cpp)
+
+
+
+
+
 
 
 
