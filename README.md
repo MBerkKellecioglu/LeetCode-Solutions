@@ -2,11 +2,9 @@
 
 ## Arrays & Hashing
 ### Easy
-* [Contains Duplicate->Solution1](Arrays&Hashing/Easy/ContainsDuplicate/Solution1.cpp)
-* [Contains Duplicate->Solution2](ArraysHashing/Easy/ContainsDuplicate/Solution2.cpp)
+* [Contains Duplicate](Arrays&Hashing/Easy/ContainsDuplicate/Solution1.cpp)
 * [Two Sum](Arrays&Hashing/Easy/Two%20Sum/Solution1.cpp)
-* [Valid Anagram->Solution1](Arrays&Hashing/Easy/Valid%20Anagram/Solution1.cpp)
-* [Valid Anagram->Solution2](Arrays&Hashing/Easy/Valid%20Anagram/Solution2.cpp)
+* [Valid Anagram](Arrays&Hashing/Easy/Valid%20Anagram/Solution1.cpp)
 
 ### Medium
 * [Group Anagrams](Arrays&Hashing/Medium/Group%20Anagrams/Solution1.cpp)
@@ -52,13 +50,10 @@
 ### Hard
 * [Decode String](Stack/Hard/Decode%20String/Solution1.cpp)
 * [Largest Rectangle in Histogram](Stack/Hard/Largest%20Rectangle%20İn%20Histogram/Solution1.cpp)
-* [Longest Valid Parentheses->Solution1](Stack/Hard/Longest%20Valid%20Parentheses/Solution1.cpp)
-* [Longest Valid Parentheses->Solution2](Stack/Hard/Longest%20Valid%20Parentheses/solution2.cpp)
+* [Longest Valid Parentheses](Stack/Hard/Longest%20Valid%20Parentheses/Solution1.cpp)
 * [Maximal Rectangle](Stack/Hard/Maximal%20Rectangle/Solution1.cpp)
-* [Number of Atoms->Solution1](Stack/Hard/Number%20Of%20Atoms/Solution1.cpp)
-* [Number of Atoms->Solution2](Stack/Hard/Number%20Of%20Atoms/Solution2.cpp)
-* [Parsing a Boolean Expression->Solution1](Stack/Hard/Parsing%20a%20Boolean%20Expression/Solution1.cpp)
-* [Parsing a Boolean Expression->Solution2](Stack/Hard/Parsing%20a%20Boolean%20Expression/Solution2.cpp)
+* [Number of Atoms](Stack/Hard/Number%20Of%20Atoms/Solution2.cpp)
+* [Parsing a Boolean Expression](Stack/Hard/Parsing%20a%20Boolean%20Expression/Solution1.cpp)
 
 
 ## Two Pointers
@@ -77,8 +72,7 @@
 ## Tree
 ### Easy
 * [Balanced Binary Tree](Tree/Easy/Balanced%20Binary%20Tree/Solution1.cpp)
-* [Diameter of Binary Tree->Solution1](Tree/Easy/Diameter%20of%20Binary%20Tree/Solution1.cpp)
-* [Diameter of Binary Tree->Solution2](Tree/Easy/Diameter%20of%20Binary%20Tree/Solution2.cpp)
+* [Diameter of Binary Tree](Tree/Easy/Diameter%20of%20Binary%20Tree/Solution1.cpp)
 * [Invert Binary Tree](Tree/Easy/Invert%20Binary%20Tree/Solution1.cpp)
 * [Maximum Depth of Binary Tree](Tree/Easy/Maximum%20Depth%20of%20Binary%20Tree/Solution1.cpp)
 * [Same Tree](Tree/Easy/Same%20Tree/Solution1.cpp)
@@ -89,6 +83,7 @@
 * [Count Good Nodes In Binary Tree](Tree/Medium/Count%20Good%20Nodes%20In%20Binary%20Tree/Solution1.cpp)
 * [Kth Smallest Element In a Bst](Tree/Medium/Kth%20Smallest%20Element%20In%20a%20Bst/Solution1.cpp)
 * [Lowest Common Ancestor of a Binary Search Tree](Tree/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution1.cpp)
+* [Validate Binary Search Tree](Tree/Medium/Validate%20Binary%20Search%20Tree/Solution1.cpp)
 
 
 
