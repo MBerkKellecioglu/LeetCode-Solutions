@@ -84,6 +84,8 @@
 * [Kth Smallest Element In a Bst](Tree/Medium/Kth%20Smallest%20Element%20In%20a%20Bst/Solution1.cpp)
 * [Lowest Common Ancestor of a Binary Search Tree](Tree/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution1.cpp)
 * [Validate Binary Search Tree](Tree/Medium/Validate%20Binary%20Search%20Tree/Solution1.cpp)
+* [Construct Binary Tree From Preorder And Inorder Traversal](Tree/Medium/Construct%20Binary%20Tree%20From%20Preorder%20And%20Inorder%20Traversal/Solution1.cpp)
+
 
 
 
