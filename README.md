@@ -86,6 +86,15 @@
 * [Validate Binary Search Tree](Tree/Medium/Validate%20Binary%20Search%20Tree/Solution1.cpp)
 * [Construct Binary Tree From Preorder And Inorder Traversal](Tree/Medium/Construct%20Binary%20Tree%20From%20Preorder%20And%20Inorder%20Traversal/Solution1.cpp)
 
+### Hard
+* [Binary Tree Maximum Path Sum](Tree/Hard/Binary%20Tree%20Maximum%20Path%20Sum/Solution1.cpp) 
+
+
+
+
+
+
+
 
 
 
