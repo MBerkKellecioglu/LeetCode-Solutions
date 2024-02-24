@@ -87,7 +87,23 @@
 * [Construct Binary Tree From Preorder And Inorder Traversal](Tree/Medium/Construct%20Binary%20Tree%20From%20Preorder%20And%20Inorder%20Traversal/Solution1.cpp)
 
 ### Hard
-* [Binary Tree Maximum Path Sum](Tree/Hard/Binary%20Tree%20Maximum%20Path%20Sum/Solution1.cpp) 
+* [Binary Tree Maximum Path Sum](Tree/Hard/Binary%20Tree%20Maximum%20Path%20Sum/Solution1.cpp)
+
+
+## Backtracking
+### Medium
+* [Subsets](Backtracking/Medium/Subsets/Solution1.cpp)
+* [Subsets II](Backtracking/Medium/Subsets%20II/Solution1.cpp)
+* [Combination Sum](Backtracking/Medium/Combination%20Sum/Solution1.cpp)
+* [Combination Sum II](Backtracking/Medium/Combination%20Sum%20II/Solution1.cpp)
+* [Permutations](Backtracking/Medium/Permutations/Solution1.cpp)
+* [Word Search](Backtracking/Medium/Word%20Search/Solution1.cpp)
+* [Palindrome Partitoning](Backtracking/Medium/Palindrome%20Partitioning/Solution1.cpp)
+* [Letter Combinations Of a Phone Number](Backtracking/Medium/Letter%20Combinations%20of%20a%20Phone%20Number/Solution1.cpp)
+
+### Hard
+* [N Queens](Backtracking/Hard/N%20Queens/Solution1.cpp)
+
 
 
 
