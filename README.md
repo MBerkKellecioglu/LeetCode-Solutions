@@ -105,7 +105,7 @@
 * [N Queens](Backtracking/Hard/N%20Queens/Solution1.cpp)
 
 
-## Graph
+## Graphs
 ### Medium
 * [Clone Graph](Graphs/Medium/Clone%20Graph/Solution1.cpp)
 * [Course Schedule](Graphs/Medium/Course%20Schedule/Solution1.cpp)
