@@ -107,8 +107,19 @@
 
 ## Graphs
 ### Medium
+* [Number Of Islands](Graphs/Medium/Number%20of%20Islands/Solution1.cpp)
 * [Clone Graph](Graphs/Medium/Clone%20Graph/Solution1.cpp)
+* [Max Area Of Island](Graphs/Medium/Max%20Area%20of%20Island/Solution1.cpp)
+* [Pacific Atlantic Water Flow](Graphs/Medium/Pacific%20Atlantic%20Water%20Flow/Solution1.cpp)
+* [Surrounded Regions](Graphs/Medium/Surrounded%20Regions/Solution1.cpp)
+* [Rotting Oranges](Graphs/Medium/Rotting%20Oranges/Solution1.cpp)
 * [Course Schedule](Graphs/Medium/Course%20Schedule/Solution1.cpp)
+* [Course Schedule](Graphs/Medium/Course%20Schedule%20II/Solution1.cpp)
+
+### Hard
+* [Word Ladder](Graphs/Hard/Word%20Ladder/Solution1.cpp)
+* [Word Ladder II](Graphs/Hard/World%20Ladder%202/Solution1.cpp)
+
 
 
 
