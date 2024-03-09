@@ -116,6 +116,7 @@
 * [Course Schedule](Graphs/Medium/Course%20Schedule/Solution1.cpp)
 * [Course Schedule](Graphs/Medium/Course%20Schedule%20II/Solution1.cpp)
 * [Evaluate Division](Graphs/Medium/Evaluate%20Division/Solution1.cpp)
+* [Number Of Provinces](Graphs/Medium/Number%20of%20Provinces/Solution1.cpp)
 
 ### Hard
 * [Word Ladder](Graphs/Hard/Word%20Ladder/Solution1.cpp)
