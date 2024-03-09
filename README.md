@@ -76,6 +76,7 @@
 * [Invert Binary Tree](Tree/Easy/Invert%20Binary%20Tree/Solution1.cpp)
 * [Maximum Depth of Binary Tree](Tree/Easy/Maximum%20Depth%20of%20Binary%20Tree/Solution1.cpp)
 * [Same Tree](Tree/Easy/Same%20Tree/Solution1.cpp)
+* [Binary Tree Inorder Traversal](Tree/Easy/Binary%20Tree%20Inorder%20Traversal/Solution1.cpp)
 
 ### Medium
 * [Binary Tree Level Order Traversal](Tree/Medium/Binary%20Tree%20Level%20Order%20Traversal/Solution1.cpp)
@@ -85,6 +86,7 @@
 * [Lowest Common Ancestor of a Binary Search Tree](Tree/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution1.cpp)
 * [Validate Binary Search Tree](Tree/Medium/Validate%20Binary%20Search%20Tree/Solution1.cpp)
 * [Construct Binary Tree From Preorder And Inorder Traversal](Tree/Medium/Construct%20Binary%20Tree%20From%20Preorder%20And%20Inorder%20Traversal/Solution1.cpp)
+* [Balance a Binary Search Tree](Tree/Medium/Balance%20a%20Binary%20Search%20Tree/Solution1.cpp)
 
 ### Hard
 * [Binary Tree Maximum Path Sum](Tree/Hard/Binary%20Tree%20Maximum%20Path%20Sum/Solution1.cpp)
