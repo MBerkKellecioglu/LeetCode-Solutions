@@ -16,7 +16,8 @@
 
 ## Binary Search
 ### Easy
-* [Simple Binary Search](Binary%20Search/Easy/Simple%20Binary%20Search/Solution.cpp)
+* [Simple Binary Search](Binary%20Search/Easy/Simple%20Binary%20Search/Solution1.cpp)
+* [Search Insert Position](Binary%20Search/Easy/Search%20Insert%20Position/Solution1.cpp)
 
 ### Medium
 * [Find Minimum in Rotated Sorted Array](Binary%20Search/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array/Solution1.cpp)
