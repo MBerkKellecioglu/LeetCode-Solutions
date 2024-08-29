@@ -64,6 +64,7 @@
 * [3 Sum](Two%20Pointers/Medium/3%20Sum/Solution1.cpp)
 * [Container With Most Water](Two%20Pointers/Medium/Container%20With%20Most%20Water/Solution1.cpp)
 * [Two Sum II](Two%20Pointers/Medium/Two%20Sum%20II/Solution1.cpp)
+* [Remove Duplicates from Sorted Array II](Two%20Pointers/Medium/Remove%20Duplicates%20from%20Sorted%20Array%20II/Solution1.cpp)
 
 ### Hard
 * [Trapping Rain Water](Two%20Pointers/Hard/Trapping%20Rain%20Water/Solution1.cpp)
