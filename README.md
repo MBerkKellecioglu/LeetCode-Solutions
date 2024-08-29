@@ -117,7 +117,7 @@
 * [Surrounded Regions](Graphs/Medium/Surrounded%20Regions/Solution1.cpp)
 * [Rotting Oranges](Graphs/Medium/Rotting%20Oranges/Solution1.cpp)
 * [Course Schedule](Graphs/Medium/Course%20Schedule/Solution1.cpp)
-* [Course Schedule](Graphs/Medium/Course%20Schedule%20II/Solution1.cpp)
+* [Course Schedule II](Graphs/Medium/Course%20Schedule%20II/Solution1.cpp)
 * [Evaluate Division](Graphs/Medium/Evaluate%20Division/Solution1.cpp)
 * [Number Of Provinces](Graphs/Medium/Number%20of%20Provinces/Solution1.cpp)
 
