@@ -132,12 +132,14 @@
 
 ## Dynamic Programming
 ### Easy
-* [Climbing Stairs](Dynamic%20Programming/Easy/Climbing%20Stairs.cpp)
-* [Min Most Climbing Stairs](Dynamic%20Programming/Easy/Min%20Most%20Climbing%20Stairs.cpp)
+* [Climbing Stairs](Dynamic%20Programming/Easy/Climbing%20Stairs/Solution1.cpp)
+* [Min Most Climbing Stairs](Dynamic%20Programming/Easy/Min%20Most%20Climbing%20Stairs/Solution1.cpp)
 
 ### Medium
-* [House Robber](Dynamic%20Programming/Medium/House%20Robber.cpp)
-* [House Robber II](Dynamic%20Programming/Medium/House%20Robber%20II.cpp)
+* [House Robber](Dynamic%20Programming/Medium/House%20Robber/Solution1.cpp)
+* [House Robber II](Dynamic%20Programming/Medium/House%20Robber%20II/Solution1.cpp)
+* [Longest Palindromic Substring](Dynamic%20Programming/Medium/Longest%20Palindromic%20Substring/Solution1.cpp)
+
 
 
 
