@@ -132,7 +132,8 @@
 
 ## Dynamic Programming
 ### Easy
-
+* [Climbing Stairs](Dynamic%20Programming/Easy/Climbing%20Stairs.cpp)
+* [Min Most Climbing Stairs](Dynamic%20Programming/Easy/Min%20Most%20Climbing%20Stairs.cpp)
 
 
 
