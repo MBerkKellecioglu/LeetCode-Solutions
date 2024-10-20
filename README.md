@@ -130,6 +130,8 @@
 * [Shortest Cycle In a Graph](Graphs/Hard/Shortest%20Cycle%20In%20a%20Graph/Solution1.cpp)
 
 
+## Dynamic Programming
+### Easy
 
 
 
